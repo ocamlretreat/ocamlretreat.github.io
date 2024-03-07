@@ -20,7 +20,9 @@ small and large, to work on during the retreat and beyond.
 
 ## Venue
 
-[La Vie en Rose, Auroville](https://www.holychichomes.com/auroville)
+[La Vie en Rose, Auroville](https://www.holychichomes.com/auroville). Google map
+pin:
+[https://maps.app.goo.gl/SjnuwuMD8qTGsFp6A](https://maps.app.goo.gl/SjnuwuMD8qTGsFp6A). 
 
 ## Dates
 
