@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+image: "assets/OCamlMatrimandir.png"
 ---
 
 <img src="assets/OCamlMatrimandir.png" alt="OCamlMatrimandir" style="width:
