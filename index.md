@@ -9,11 +9,12 @@ title: Home
 Welcome to the first OCaml Retreat at [Auroville](https://auroville.org/),
 India.
 
-This is an OCaml hacking retreat, organised by [Tarides](https://tarides.com/),
-and inspired by the [Mirage Retreats](https://retreat.mirage.io/). During the
-event, we hope to work on a variety of OCaml projects, including but not limited
-to the compiler, concurrency libraries, platform tooling, and benchmarking. It's
-perfectly fine if you'd like to work on your own project.
+This is a week-long hacking retreat, organised by
+[Tarides](https://tarides.com/), and inspired by the [Mirage
+Retreats](https://retreat.mirage.io/). During the event, we hope to work on a
+variety of OCaml projects, including but not limited to the compiler,
+concurrency libraries, platform tooling, and benchmarking. It's perfectly fine
+if you'd like to work on your own project.
 
 [HackaCamel](https://github.com/tarides/HackaCamel) is a collection of ideas,
 small and large, to work on during the retreat and beyond.
