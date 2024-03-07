@@ -42,3 +42,9 @@ beforehand.
 
 Registrations are closed for the current retreat. Watch out this space for
 future retreats.
+
+## For attendees
+
+* [Google Calendar with the schedule](https://calendar.google.com/calendar/u/0/embed?src=c_03b59115611cc71702e3547c9442062d42f2cfd9562b9230d6336a64dc9f83ce@group.calendar.google.com&ctz=Asia/Kolkata).
+* [HackaCamel](https://github.com/tarides/HackaCamel) hacking ideas.
+* [Event Slack](https://ocamlretreatauroville.slack.com/).
