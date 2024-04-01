@@ -155,3 +155,29 @@ nice theme, which I'll probably "finish" at some point. My experiments with
 go very well, and paused on them.
 
 It was a really nice and friendly learning experience; I would sign-up again!
+
+
+## Ganesh
+
+The OCaml retreat at Auroville was a memorable one, especially for me. I made my first contribution to OCaml during this retreat.  
+
+I came to this retreat to learn how Okra works. Since I'm working on extracting the raw data from the engineers' weekly reports, I wanted to understand how the tool(Okra) works, which could be helpful for me later. 
+
+I was new to coding. So, Puneeth suggested starting with OCaml Joy. Thanks to Sudha and Kaustubh, I started learning OCaml Joy. It was fun playing with Joy. Later, I created a new [PR](https://github.com/Sudha247/ocaml-joy/pull/124) with the help of Puneeth, Sudha and Kaustubh to draw a smile emoji using Joy. 
+
+I also worked on a couple of issues on Okra with Puneeth. Puneeth helped me understand how the code works. I shadowed his work while closing the issues on Okra. It was nice working with Puneeth.
+
+It was nice to learn OCaml during this retreat. I was pleased that the retreat went very well. Thanks to Sudha for taking the initiative to organise the accommodation, stay, food and the architecture tour that we attended. 
+
+In a time when it is challenging to meet your peers regularly, it was lovely to spend time together for a week and learn new things. 
+
+    
+## Sudha
+    
+I had a wonderful time at the OCaml retreat! I wanted to use the time at the retreat to do some stuff on [joy](https://github.com/Sudha247/ocaml-joy). I ended up reviewing some PRs, and we got many new users and contributors. With Kaustubh, we also played around a bit with mandelbrot simulations using joy.
+    
+I wanted to create a wasm backend for joy, similarly to the js_of_ocaml backend. I initially had some trouble installing wasm_of_ocaml on my machine, and later found workarounds to it and fixed it in the upstream repository too. It'd still be nice to experiment with joy on wasm.
+    
+I also ended up writing a Dream version of [Web Frameworks Benchmarks](https://web-frameworks-benchmark.netlify.app/result) (that I need to upstream!).
+    
+Apart from all the hacking, it was great to be amongst a bunch of OCaml and FP enthusiasts and learn from them. Looking forward to more OCaml retreats in the future!
