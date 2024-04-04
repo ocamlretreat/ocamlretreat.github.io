@@ -11,7 +11,7 @@ OCaml retreat is an initiative by [Tarides](https://tarides.com/) to bring
 [OCaml](https://ocaml.org/) hackers together for a week-long retreat to hack on
 projects together. The OCaml retreat is inspired by the [Mirage
 Retreat](https://retreat.mirage.io/), which has been successfully bringing
-together people working on the [MirageOS](https://mirage.io/). 
+together people working on [MirageOS](https://mirage.io/). 
 
 The [first OCaml retreat]({{ site.baseurl }}{% post_url 2024-03-06-first-ocaml-retreat %}) 
 was run between the 10th and the 15th of March 2024 at Auroville. You can read
