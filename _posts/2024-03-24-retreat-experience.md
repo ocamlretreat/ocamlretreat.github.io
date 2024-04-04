@@ -2,6 +2,7 @@
 layout: post
 title:  "Experiences from the first OCaml Retreat"
 date:   2024-03-24 11:13:42 +0530
+image: "/assets/retreat_collage.jpg"
 ---
 
 <img src="/assets/retreat_collage.jpg"/>
