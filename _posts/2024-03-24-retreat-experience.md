@@ -4,7 +4,7 @@ title:  "Experiences from the first OCaml Retreat"
 date:   2024-03-24 11:13:42 +0530
 ---
 
-# Experiences from the first OCaml Retreat
+<img src="/assets/retreat_collage.jpg"/>
 
 ## prometheansacrifice
 Incredibly grateful for the retreat. Enjoyed meeting KC and all the other smart
