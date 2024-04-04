@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experiences from the first OCaml Retreat"
+title:  "Experiences from the first OCaml retreat"
 date:   2024-03-24 11:13:42 +0530
 image: "/assets/retreat_collage.jpg"
 ---

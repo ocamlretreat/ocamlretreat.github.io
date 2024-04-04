@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The First OCaml Retreat"
+title:  "The first OCaml retreat"
 date:   2024-03-06 11:13:42 +0530
 image: "/assets/OCamlMatrimandir.png"
 ---
